@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co/5ngfqFf/5338256.jpg",
+        "title": "How to get your first job as a self-taught programmer",
+        "author": "Alex Reed",
+        "author_img": "https://i.imgur.com/yXOvdOSs.jpg",
+        "posted_date": "2024-03-29",
+        "reading_time": 5,
+        "hashtags": [
+            "beginners",
+            "programming"
+        ]
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co/8YNhQNq/circuit-board-chip-technology-concept.jpg",
+        "title": "Master Microsoft Power Platform and Become an In-Demand!",
+        "author": "Samantha Choi",
+        "author_img": "https://i.ibb.co/qFxb5tb/kisspng-clip-art-author-illustration-writer-free-content-5c528d18014c07-3278755915489139440053.jpg",
+        "posted_date": "2024-03-15",
+        "reading_time": 7,
+        "hashtags": [
+            "beginners",
+            "programming"
+        ]
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co/3MGhfM2/6018993.jpg",
+        "title": "How to search your first job as a self-taught programmer",
+        "author": "Jacob Lee",
+        "author_img": "https://i.ibb.co/1fqcVLr/kisspng-vector-graphics-stock-photography-author-royalty-f-5c33f90a9dae85-2248987715469099626459.jpg",
+        "posted_date": "2024-04-01",
+        "reading_time": 4,
+        "hashtags": [
+            "#Romance",
+            "#Drama",
+            "#Relationships"
+        ]
+    }
+]
